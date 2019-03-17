@@ -11,6 +11,10 @@
 
 * [Test](/Test/README.md)
 
+## 排序和搜索
+
+* [Sort and search](/SortAndSearch/README.md)
+
 ## 动态规划
 
 * [Dynamic Programming](/DynamicProgramming/README.md)
