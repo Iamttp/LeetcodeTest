@@ -2,7 +2,7 @@
 
 ！！！对于二分查找的边界问题，暂时不太确定。
 
-参考：https://blog.csdn.net/yefengzhichen/article/details/52372407
+参考：`https://blog.csdn.net/yefengzhichen/article/details/52372407`
 
 * 在有序数组中查找某个数，找到返回数的下标，存在多个返回任意一个即可，没有返回-1。所有程序采用左右均为闭区间，即函数中n为最后一个元素下标，而不是元素个数。典型代码如下：
 
