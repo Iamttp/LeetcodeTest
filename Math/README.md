@@ -7,7 +7,7 @@
 可以用:
 
 ```cpp
-string to_string (int val);
+(c++11)string to_string (int val);
 ```
 
 也可以用：
@@ -21,7 +21,7 @@ int main()
   string res;
   stringstream ss;
   ss << a;
-  ss >> res; 
+  ss >> res;
   return 0;
 }
 ```
