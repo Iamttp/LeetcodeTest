@@ -18,3 +18,7 @@
 ## 动态规划
 
 * [Dynamic Programming](/DynamicProgramming/README.md)
+
+## 数学
+
+* [Math](Math/README.md)
