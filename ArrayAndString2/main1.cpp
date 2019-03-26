@@ -80,7 +80,7 @@ public:
     {
       vector<int> temp = nums;
       temp.erase(temp.begin() + i);
-      vector<vector<int>> vvt = twoSum(temp, nums[i], -nums[i]);
+      vector<vector<int> > vvt = twoSum(temp, nums[i], -nums[i]);
       res.insert(res.end(), vvt.begin(), vvt.end());
     }
 
