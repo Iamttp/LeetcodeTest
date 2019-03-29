@@ -44,4 +44,4 @@ int main(){
 判断质数可参考main2.cpp
 用筛选法可以更快的判断
 
-* [main2.cpp](/main2.cpp)
+* [main2.cpp](/Math/main2.cpp)
