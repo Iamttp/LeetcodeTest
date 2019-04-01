@@ -5,7 +5,7 @@ MYCC?=clang++
 all: ${EXECS1} 
 
 main.o:main.cpp
-	${MYCC} -o main.o main.cpp -g -Wall -std=c++11
+	${MYCC} -o main main.cpp -g -Wall -std=c++11
 
 #make clean
 clean:
