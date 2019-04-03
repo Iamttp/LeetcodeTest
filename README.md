@@ -23,11 +23,13 @@
 
 ## 中级算法
 
-### 数组和字符串
+### 数组和字符串2
+
+* 数组和字符串问题在面试中出现频率很高，你极有可能在面试中遇到。
 
 * [ArrayAndString](/ArrayAndString2/README.md)
 
-### 链表
+### 链表2
 
 * 链表问题相对容易掌握。
 * 不要忘记"双指针解法"，它不仅适用于数组问题，而且还适用于链表问题。
@@ -36,6 +38,12 @@
 
 * [List](/List2/README.md)
 
-### 树和图
+### 树和图2
+
+* 树是图的简单表示形式，所以我们常用的两种图的遍历方法同样适用于树。
 
 * [TreeAndGraph](/TreeAndGraph2/README.md)
+
+### 动态规划2
+
+* [Dynamic Programming](/DynamicProgramming2/README.md)
